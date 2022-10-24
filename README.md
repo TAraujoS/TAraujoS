@@ -4,10 +4,10 @@
 - Student from Kenzie Academy Brasil to become a great Full Stack Dev and your company Dev! 📚 🖥
 
 ##
-<!--- 
 <div>
   <a href="https://beacons.ai/TAraujoS">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=taraujos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=taraujos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--- 
   <img widtht="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=taraujos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 -->
