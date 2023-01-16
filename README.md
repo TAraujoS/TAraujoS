@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Thiago Araujo Scherer! 
 ##
-- Gemologist 💎 and Front End Developer 👨‍💻
+- Front End and Back End Developer 👨‍💻
 - Student from Kenzie Academy Brasil to become a great Full Stack Dev and your company Dev! 📚 🖥
 
 ##
@@ -22,6 +22,8 @@
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
 
 ##
