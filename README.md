@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Thiago Araujo Scherer! 
 ##
 - Front End and Back End Developer 👨‍💻
-- Student from Kenzie Academy Brasil to become a great Full Stack Dev and your company Dev! 📚 🖥
+- FullStack Dev and your company Dev! 📚 🖥
 
 ##
 <div align="center">
