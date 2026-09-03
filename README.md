@@ -4,11 +4,11 @@
 - FullStack Dev and your company Dev! 📚 🖥
 
 ##
-<div align="center">
+<!-- <div align="center">
   <a href="https://beacons.ai/TAraujoS">
   <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=taraujos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/> 
   <img  width="40%" height="195px" src= "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taraujos&layout=compact&langs_count=16&theme=dracula&hide_border=true&border_radius=5.0"/>
-</div>
+</div> -->
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=taraujos&bg_color=0d1117&color=ffffff&line=ff7e05&point=0f0f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   
